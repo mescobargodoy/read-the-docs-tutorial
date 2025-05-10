@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mymodule"
+description = "ReadTheDocs test repository."
+readme = "README.rst"
+version = "0.1"
+authors = [
+  {name = "Miguel Escobar Godoy"},
+]
+maintainers = [
+  {name = "Miguel Escobar Godoy", email = "mescob11@ucsc.edu"}
+]
+requires-python = ">=3.8"
+
+[project.scripts]
+# sim_telarray
+compute-line = "module.tools.execute_script1:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

@@ -8,7 +8,7 @@
 
 import mymodule
 
-project = 'module'
+project = 'mymodule'
 copyright = '2025, Miguel Escobar Godoy'
 author = 'Miguel Escobar Godoy'
 

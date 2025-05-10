@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 mymodule documentation
-====================
+======================
 
 .. toctree::
    :maxdepth: 2
@@ -16,5 +16,5 @@ mymodule documentation
 API Documentation
 =================
 
-.. automodule:: module
+.. automodule:: mymodule
    :members:

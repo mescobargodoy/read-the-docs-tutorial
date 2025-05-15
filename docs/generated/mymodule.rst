@@ -1,0 +1,6 @@
+﻿mymodule
+========
+
+.. automodule:: mymodule
+
+   

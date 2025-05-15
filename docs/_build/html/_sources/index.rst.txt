@@ -3,18 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-mymodule documentation
-======================
+Welcome to mymodule's Documentation!
+====================================
+
+**mymodule** is a dummy Python library just to be used
+to learn how to setup ReadTheDocs correctly.
+
+.. note:
+
+   This project is under active development.
+
+Contents
+--------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
    usage
-   installation
-
-API Documentation
-=================
-
-.. automodule:: mymodule
-   :members:
+   api

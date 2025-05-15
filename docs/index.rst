@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to mymodule's Documentation!
-======================
+====================================
 
 **mymodule** is a dummy Python library just to be used
 to learn how to setup ReadTheDocs correctly.

@@ -1,3 +1,8 @@
+"""
+script1 - A python script that computes the equation for a line.
+"""
+
+
 import numpy as np
 
 def line(x, m, b):

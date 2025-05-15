@@ -4,4 +4,6 @@ API
 .. autosummary::
    :toctree: generated
 
-   mymodule
+   mymodule.script1
+
+   

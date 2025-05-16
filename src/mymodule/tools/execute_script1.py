@@ -1,3 +1,7 @@
+"""
+CLI to call line method via compute-line.
+"""
+
 import argparse
 from mymodule.script1 import line
 
@@ -6,9 +10,7 @@ def main():
         usage = """compute-line \\
             --m 2 \\
             --x 3 \\
-            --b 0 \\
-            --particle_type <particle>
-            [OPTIONS]
+            --b 0 
             """,
         description="""Computes linear equation for given
                         slope, intercept and x-value."""
